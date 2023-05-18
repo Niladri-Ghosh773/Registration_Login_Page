@@ -1,0 +1,65 @@
+*
+{
+color: white;
+font-family: 'Poppins', sans-serif;
+}
+body
+{
+background-image: url("background.jpg");
+background-repeat:no-repeat;
+background-size:cover; 
+}
+.FormBox
+{
+text-align:center;
+border:3px solid white;
+border-radius: 25px;
+display: block;
+width:35%;
+height:65%;
+margin: 100px 420px;
+padding-top: 50px;
+backdrop-filter: blur(10px);
+}
+.heading
+{
+font-size: 30px;
+position: relative;
+bottom: 20px;
+}
+.Reg
+{
+color: black;
+background-color: white;
+padding: 5px 50px;
+border: none;
+border-radius: 50px;
+}
+.mailicon
+{
+font-size: 1.3em;
+position: absolute;
+margin-left:230px;
+}
+.passicon
+{
+font-size: 1.3em;
+position: absolute;
+margin-left:260px;
+}
+.nameicon
+{
+font-size: 1.3em;
+position: absolute;
+margin-left:230px;
+}
+.phoneicon
+{
+font-size: 1.3em;
+position: absolute;
+margin-left:305px;
+}
+input
+{
+color: black;
+}
